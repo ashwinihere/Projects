@@ -1,2 +1,2 @@
 # Projects
-Data related projects 
+Data related projects like sql,bi,etc
